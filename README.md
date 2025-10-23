@@ -2,6 +2,8 @@
 
 
 A high-performance arbitrage bot for trading between Limitless Exchange and Polymarket, featuring async/await, connection pooling, intelligent caching, and robust error handling.
+
+
 ✨ Key Features
 
 ⚡ Asynchronous Architecture: Full async/await implementation for maximum concurrency

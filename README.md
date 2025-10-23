@@ -1,10 +1,3 @@
-Based on the DeepSeek-OCR README structure and best practices for technical projects, here's a professionally formatted version of your arbitrage bot README:
-
-```markdown
-<!-- markdownlint-disable first-line-h1 -->
-<!-- markdownlint-disable html -->
-<!-- markdownlint-disable no-duplicate-header -->
-
 <div align="center">
   <h1>⚡ Optimized Arbitrage Bot</h1>
   <h3>Maximum Performance Edition</h3>

@@ -29,6 +29,7 @@ arbitrage-bot/
 ├── requirements.txt         # Python dependencies
 ├── .env.example            # Environment variables template
 └── README.md               # This file
+
 📦 Installation
 1. Clone the Repository
 bashgit clone <repository-url>
@@ -49,6 +50,7 @@ POLYMARKET_PRIVATE_KEY=your_private_key
 POLYMARKET_API_KEY=your_api_key  # Optional
 Bot Settings (config/settings.py)
 ParameterDefaultDescriptionMIN_SPREAD_PCT3.0%Minimum spread to consider arbitrageMAX_BET_AMOUNT$10.00Maximum bet per sideMAX_STRIKE_DIFF$200.00Max price difference for market matchingPOLL_INTERVAL12sTime between scansSLIPPAGE_TOLERANCE0.5%Slippage protection
+
 🚀 Usage
 Start the Bot
 bashpython main.py
